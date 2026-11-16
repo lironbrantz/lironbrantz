@@ -1,61 +1,66 @@
 # Liron Brantz
 
-**Full-Stack Developer**  
-*React · Node.js · Express · MongoDB*
+**Full-Stack Developer**
 
-I build web applications across the frontend, backend, and data layers, with an emphasis on maintainable code, clear architecture, and intuitive user experiences.
-
-My approach combines reusable interfaces, well-structured APIs, and practical problem-solving to turn ideas into working products.
-
-[LinkedIn](https://www.linkedin.com/in/liron-brantz-2573b13a4) · [Repositories](https://github.com/lironbrantz?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/liron-brantz-2573b13a4)
 
 ---
 
-## Technical Stack
+## Tech Stack
+
+**Languages**  
+JavaScript · HTML · CSS
 
 **Frontend**  
-JavaScript · React · Redux · React Router · HTML5 · CSS3 · Sass · Vite · Responsive Design · SPAs & PWAs
+React · Redux · React Router · Sass · Vite
 
-**Backend & APIs**  
-Node.js · Express · REST APIs · Authentication & Authorization · WebSockets
+**Backend**  
+Node.js · Express · REST APIs · WebSockets · Authentication & Authorization
 
 **Databases**  
-MongoDB · MySQL · Data Modeling
+MongoDB · MySQL
 
-**Development & Delivery**  
-Git · GitHub · API Integration · Cloud Deployment · AI-Assisted Development
+**Tools**  
+Git · GitHub · npm
 
 ---
 
 ## Selected Projects
 
-### Appsus — Productivity Workspace
+### Appsus
 
-[![Appsus home screen](https://raw.githubusercontent.com/lironbrantz/Appsus/main/assets/img/readme/home.png)](https://lironbrantz.github.io/Appsus/)
+[![Appsus](https://raw.githubusercontent.com/lironbrantz/Appsus/main/assets/img/readme/home.png)](https://lironbrantz.github.io/Appsus/)
 
-A React single-page application bringing together three tools in a unified interface: notes, a simulated email client, and a book library.
+A React application combining three tools in one workspace:
 
-- Reusable components, shared navigation, and a modular service layer
-- Notes, tasks, drafts, search, filtering, and book management
-- Browser-based persistence and responsive layouts
-- Cross-app interactions between notes and mail
+- **Keep** — Notes, to-do lists, images, videos, and filtering.
+- **Mail** — Simulated inbox, drafts, labels, search, and message management.
+- **Books** — Book management, reviews, search, and statistics.
 
-**[Live Demo](https://lironbrantz.github.io/Appsus/) · [Source Code](https://github.com/lironbrantz/Appsus)**
+Includes shared components, a service layer, local data persistence, and interactions between applications.
 
-### Miss Books — Book Management
+**React · JavaScript · CSS**
 
-A React application featuring book management, URL-based filtering, reviews, Google Books API integration, and category statistics with Chart.js.
+[Live Demo](https://lironbrantz.github.io/Appsus/) · [Source Code](https://github.com/lironbrantz/Appsus)
 
-**[Source Code](https://github.com/lironbrantz/miss-books)**
+### Miss Books
 
-### TravelTip — Interactive Map
+A React book management application with CRUD operations, routing, search filters, reviews, Google Books API integration, and a statistics dashboard.
 
-A location management application featuring interactive maps, geolocation, address search, location CRUD, sorting, filtering, and shareable links.
+**React · React Router · JavaScript · Chart.js**
 
-**[Source Code](https://github.com/lironbrantz/travel-tip)**
+[Source Code](https://github.com/lironbrantz/miss-books)
+
+### TravelTip
+
+An interactive location management application with Google Maps integration, geolocation, address search, saved locations, filtering, and sorting.
+
+**JavaScript · Google Maps API · CSS**
+
+[Source Code](https://github.com/lironbrantz/travel-tip)
 
 ---
 
-## Connect
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/liron-brantz-2573b13a4) · [GitHub](https://github.com/lironbrantz)
+[LinkedIn](https://www.linkedin.com/in/liron-brantz-2573b13a4)
